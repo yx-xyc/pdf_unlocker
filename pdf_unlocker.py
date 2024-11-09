@@ -114,8 +114,8 @@ def process_path(input_path, password):
 if __name__ == '__main__':
     # Example usage
     # For a single file:
-    file_path = "/Users/yanchong/Dropbox/Documents/nyu_mscs/CSCI-GA-2433/Project/ProjectPart2.pdf"
-    password = "DMSFALL2024%-"
+    file_path = "/Users/yanchong/Dropbox/Documents/nyu_mscs/CSCI-GA-2262/Slides/"
+    password = "DCNFALL2024%-"
     process_path(file_path, password)
     
     # For a folder:
