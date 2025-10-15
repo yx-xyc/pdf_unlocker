@@ -115,8 +115,8 @@ if __name__ == '__main__':
     # Example usage
     # For a single file:
     # /Users/yanchong/Library/CloudStorage/Dropbox/Documents/nyu_mscs/CSCI-GA-2437/Slides
-    file_path = "/Users/yanchong/Library/CloudStorage/Dropbox/Documents/nyu_mscs/CSCI-GA-2437/Slides/"
-    password = "bdad"
+    file_path = "/Users/yanchong/Library/CloudStorage/Dropbox/Documents/nyu_mscs/CSCI-GA-2436/Slides/"
+    password = "rbda"
     process_path(file_path, password)
     
     # For a folder:
